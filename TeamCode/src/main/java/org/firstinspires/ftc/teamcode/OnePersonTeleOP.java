@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
-@TeleOp(name="1p TeleOP", group="Tungsteel 2019-20")
+@TeleOp(name="1p TeleOP", group="Summer Development 2020")
 //@Disabled
 public class OnePersonTeleOP extends OpMode {
     //Create HardwareAndMethods instance called robot

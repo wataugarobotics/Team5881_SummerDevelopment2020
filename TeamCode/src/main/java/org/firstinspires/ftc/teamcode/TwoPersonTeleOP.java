@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.util.Range;
 import org.firstinspires.ftc.robotcore.external.navigation.DistanceUnit;
 import org.firstinspires.ftc.teamcode.HardwareAndMethods;
 
-@TeleOp(name="2p TeleOP", group="Tungsteel 2019-20")
+@TeleOp(name="2p TeleOP", group="Summer Development 2020")
 //@Disabled
 public class TwoPersonTeleOP extends OpMode {
     //Create HardwareAndMethods instance called robot
